@@ -48,20 +48,6 @@ Security engineer focused on detection engineering, attack surface mapping, and 
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=hackermatrix&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hackermatrix&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
 <div align="center">
 
 *Building offensive tools for defensive wins.*
