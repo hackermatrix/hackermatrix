@@ -48,18 +48,15 @@ Security engineer focused on detection engineering, attack surface mapping, and 
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hackermatrix&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackermatrix&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img src="https://streak-stats.demolab.com?user=hackermatrix&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 
-</div>
+<br/><br/>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=hackermatrix&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hackermatrix&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
