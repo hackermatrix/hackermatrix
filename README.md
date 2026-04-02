@@ -27,48 +27,6 @@ Security engineer with hands-on experience in detection engineering, offensive s
 
 ---
 
-## Experience
-
-**Software Engineer** — Divvya CPP Private Limited *(Sep 2023 – Sep 2025)*
-- Built encrypted API for Indian Customs using asymmetric encryption + certificate validation
-- Deployed and configured Wazuh SIEM across facility infrastructure
-- Managed AWS infrastructure: VPCs, Security Groups, Site-to-Site VPN, RDS, IoT Core
-- Hardened Linux servers; deployed self-hosted CI/CD, version control, and password management
-
-**Cybersecurity Intern** — Alancesec Private Limited *(Apr 2022 – May 2022)*
-- Manual web app pentesting: found auth bypass, IDOR, XSS, and injection flaws
-- Wrote vulnerability reports with remediation steps; validated patches through retesting
-
----
-
-## Featured Projects
-
-| Project | Description |
-|---|---|
-| [AcquiGraph](https://github.com/hackermatrix/acquigraph) | M&A attack surface graph — Neo4j + FastAPI + D3.js, SEC EDGAR integration, risk scoring |
-| [Recon-Automation-Pipeline](https://github.com/hackermatrix/Recon-Automation-Pipeline) | Fully automated external recon engine with daily alerting |
-| [Detection Engineering Lab](https://github.com/hackermatrix/hack-logs) | Wazuh SIEM lab — ATT&CK-mapped detections, playbooks, memory forensics |
-| [HTB Writeups](https://github.com/hackermatrix/HTB-writeups) | HackTheBox OSCP-style machine walkthroughs |
-
----
-
-## Education
-
-**MS Cybersecurity** — Northeastern University, Khoury College *(Dec 2027)*
-Coursework: Computer System Security · Threats & Defenses · Critical Infrastructure · Kubernetes
-
-**BE Computer Science** — Zeal College of Engineering, Pune *(May 2023)* · GPA 9.02/10
-
----
-
-## Certifications
-
-- Junior Pentester Learning Path — TryHackMe
-- Offensive Approach to Hunt Bugs — Hackersera
-- C and C++ Training — IIT Bombay
-
----
-
 ## Contact
 
 [LinkedIn](https://linkedin.com/in/hrishikesh-jadhav-4375641a2) · [GitHub](https://github.com/hackermatrix) · jadhav.hr@northeastern.edu
