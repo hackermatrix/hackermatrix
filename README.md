@@ -1,32 +1,72 @@
-# Hrishikesh Jadhav
+<div align="center">
 
-**MS Cybersecurity @ Northeastern University (Khoury College) · GPA 4.0 · Boston, MA**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Hrishikesh+%F0%9F%91%8B;Security+Engineer;Detection+%7C+AppSec+%7C+Recon+Automation;MS+Cybersecurity+%40+Northeastern" alt="Typing SVG" />
 
-Security engineer with hands-on experience in detection engineering, offensive security, and infrastructure hardening. I build tools that map attack surfaces, automate reconnaissance, and detect adversary behavior — then document everything so others can follow.
+<br/>
+
+**Boston, MA · MS Cybersecurity @ Northeastern (Khoury) · GPA 4.0**
+
+Security engineer focused on detection engineering, attack surface mapping, and offensive security tooling. I build things that find what attackers would find — before they do.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hrishikesh-jadhav-4375641a2)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hackermatrix)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jadhav.hr@northeastern.edu)
+
+</div>
 
 ---
 
 ## What I Work On
 
-- **Detection Engineering** — Custom SIEM rules mapped to MITRE ATT&CK, simulated attacks (Kerberoasting, lateral movement, persistence), memory forensics with Volatility
-- **Attack Surface Mapping** — [AcquiGraph](https://github.com/hackermatrix/acquigraph): graph-based M&A attack surface visualizer built on Neo4j + FastAPI + D3.js
-- **Recon Automation** — [Recon-Automation-Pipeline](https://github.com/hackermatrix/Recon-Automation-Pipeline): subdomain enum, port scanning, Nuclei vuln scanning, daily alerting
+- **Attack Surface Mapping** — [AcquiGraph](https://github.com/hackermatrix/acquigraph): graph-based M&A attack surface visualizer built on Neo4j + FastAPI + D3.js with SEC EDGAR integration
+- **Recon Automation** — [Recon-Automation-Pipeline](https://github.com/hackermatrix/Recon-Automation-Pipeline): subdomain enum, port scanning, Nuclei vuln scanning, daily alerting on newly exposed assets
+- **Detection Engineering** — Wazuh SIEM lab with custom ATT&CK-mapped rules, simulated Kerberoasting / lateral movement / persistence, memory forensics with Volatility
 - **Pentesting** — Web app assessments (Burp Suite, SQLmap, Metasploit), Active Directory attacks, HackTheBox, CTFs
 
 ---
 
 ## Skills
 
-| Area | Tools & Tech |
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,bash,js,cpp,linux,docker,kubernetes,aws,git,github&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,react,nodejs,postgres,redis,vscode,vim&theme=dark" />
+
+</div>
+
+<br/>
+
+| Area | Tools |
 |---|---|
-| Security | Wazuh SIEM, Burp Suite, Metasploit, Nuclei, Nmap, Wireshark, Volatility |
-| Cloud | AWS (VPC, RDS, Site-to-Site VPN, Security Groups, IoT Core) |
-| Infrastructure | Linux, Windows Server, Active Directory, Docker, Kubernetes |
-| Languages | Python, Bash, JavaScript, C++, x86 Assembly (basic) |
-| Protocols | TLS/SSL, IPsec, TCP/IP, JWT/OAuth, DNS |
+| Security | Wazuh SIEM · Burp Suite · Metasploit · Nuclei · Nmap · Wireshark · Volatility · SQLmap |
+| Cloud | AWS VPC · RDS · Site-to-Site VPN · Security Groups · IoT Core |
+| Infrastructure | Linux · Windows Server · Active Directory · Docker · Kubernetes |
+| Languages | Python · Bash · JavaScript · C++ · x86 Assembly |
 
 ---
 
-## Contact
+## GitHub Stats
 
-[LinkedIn](https://linkedin.com/in/hrishikesh-jadhav-4375641a2) · [GitHub](https://github.com/hackermatrix) · jadhav.hr@northeastern.edu
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hackermatrix&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackermatrix&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=hackermatrix&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+*Building offensive tools for defensive wins.*
+
+</div>
